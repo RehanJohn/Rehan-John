@@ -26,5 +26,5 @@
 - Participating in the upkeep of my lab
 - Promoting a respectful environment free of harassment and discrimination
 
-Signed by committing this file in my repository,
+Signed by committing this file in my repository,  
 Rehan John Rinosh
